@@ -1,15 +1,15 @@
-# Portfolio Website Project in React
+# Portfolio Website Project in Nextjs
 
 ## Overview
 
-Welcome to my portfolio website project! This project aims to showcase my skills, projects, and experiences in a visually appealing and user-friendly manner. The website is built using React, a powerful JavaScript library for building user interfaces.
+Welcome to my portfolio website project! This project aims to showcase my skills, projects, and experiences in a visually appealing and user-friendly manner. The website is built using Nextjs, a powerful JavaScript library for building user interfaces.
 A mission to embark on to understand the React Framework to its maximum.
 
 ## Project Goals
 
 1. **Study and Explore React:**
-   - Gain a deeper understanding of React and its core concepts.
-   - Explore the use of React components, state, and props.
+   - Gain a deeper understanding of Nextjs and its core concepts.
+   - Explore the use of Next components, state, and props.
 
 2. **Responsive Design:**
    - Implement a responsive design to ensure optimal viewing experience across devices.
@@ -28,7 +28,7 @@ A mission to embark on to understand the React Framework to its maximum.
 
 ## Technologies Used
 
-- **React:** JavaScript library for building user interfaces.
+- **Nextjs:** JavaScript library for building user interfaces.
 - **HTML/CSS:** Structure and styling for web content.
 - **JavaScript (ES6+):** Programming language for dynamic website functionality.
 
