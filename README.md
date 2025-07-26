@@ -7,7 +7,7 @@ A mission to embark on to understand the React Framework to its maximum.
 
 ## Project Goals
 
-1. **Study and Explore React:**
+1. **Study and Explore Nextjs:**
    - Gain a deeper understanding of Nextjs and its core concepts.
    - Explore the use of Next components, state, and props.
 
